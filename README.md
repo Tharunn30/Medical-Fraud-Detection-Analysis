@@ -1,4 +1,4 @@
-# Fraud Detection in Healthcare Claims (at Provider Level)
+Medical Fraud Detection Analysis
 
 ## 1. Problem Overview  
 Healthcare fraud is a significant issue in the United States, costing tens of billions of dollars annually. As the FBI highlights, this crime isn’t harmless—it increases insurance premiums, exposes patients to unnecessary treatments, and raises taxes. In this project, the goal is to predict potentially fraudulent healthcare providers based on their claim patterns. The dataset used for analysis is available on [Kaggle](https://www.kaggle.com/datasets/rohitrox/healthcare-provider-fraud-detection-analysis/data), containing detailed claim and beneficiary information for several providers.
