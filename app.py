@@ -97,6 +97,6 @@ if st.button("🔍 Predict Fraudulent Provider"):
 # Footer for a professional touch
 st.markdown("<hr>", unsafe_allow_html=True)
 st.markdown(
-    "<p style='text-align: center; font-size: 14px; color: #888;'>Developed with ❤️ by [Your Name/Company]</p>", 
+    "<p style='text-align: center; font-size: 14px; color: #888;'>Developed with ❤️ by P.V. Tharunn Raj</p>", 
     unsafe_allow_html=True
 )
