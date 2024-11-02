@@ -20,7 +20,7 @@ def add_background_image(image_url):
     )
 
 # Call the function with the URL or local path to an image
-add_background_image(r"C:\Users\Tharunn\OneDrive\Desktop\DAI project\Medical Fraud Detection Analysis Project\background image2.webp")  # Replace with your image path
+add_background_image("background image2.webp")  # Replace with your image path
 
 # Customize title and subtitle
 st.markdown(
