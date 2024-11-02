@@ -87,9 +87,9 @@ A new CatBoost model was trained using only these five features to reduce comple
 ### Streamlit App  
 The simplified CatBoost model has been deployed as a **Streamlit web application**. Users can input provider features and receive predictions on whether a provider is likely fraudulent. Below is a screenshot of the application:
 
-[<img title="App GUI" alt="App GUI" src="/images/AppGUI.png" width="100%">]
+[<img title="App GUI" alt="App GUI" src="/images/Tharunn-AppGUI.png" width="100%">]
 
-Try the app here: [Provider Fraud Detection App](https://medical-fraud-detection-analysis-pradlanka.streamlit.app).
+
 
 ---
 
